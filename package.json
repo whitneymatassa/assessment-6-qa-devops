@@ -1,0 +1,21 @@
+{
+  "name": "assessment-6-qa-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "chromedriver": "^98.0.1",
+    "heroku": "^7.59.2",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
